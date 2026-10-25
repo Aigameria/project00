@@ -1,0 +1,10 @@
+# Unreal generated / cached folders at any depth
+**/Intermediate/
+**/DerivedDataCache/
+**/Binaries/
+**/Saved/
+*.umap.tmp
+*.uasset.tmp
+.vs/
+*.log
+.DS_Store
